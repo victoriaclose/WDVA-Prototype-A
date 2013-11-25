@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+/*===================
+	Secondary Nav
+===================*/
+
+#secondary-nav {
+	background: #FC3;
+	position: fixed;
+	
+
+}
+
+
+/*===================
+	Page Template
+===================*/
+
+#page-content {
+	
+	
+	
+}
+
+:target {
+	background: #CFF;
+	
+	
+	
+}
